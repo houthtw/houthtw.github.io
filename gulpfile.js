@@ -86,7 +86,7 @@ gulp.task('watch', function () {
   gulp.watch('assets/stylus/**/*', ['stylus']);
   gulp.watch('assets/coffee/**/*', ['coffee']);
   gulp.watch(['images/**/*', 'vendor/**/*'], ['jekyll-rebuild']);
-  gulp.watch(['*.html', '_layouts/*', '_includes/**/*', 'pages/*'], ['jekyll-rebuild']);
+  gulp.watch(['*.html', '_layouts/*', '_includes/**/*', '_posts/*', 'pages/*'], ['jekyll-rebuild']);
   gulp.watch(['_site/js/**/*', '_site/css/**/*'], ['refresh-page']);
 });
 
