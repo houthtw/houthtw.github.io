@@ -52,25 +52,25 @@ permalink: /portfolio/:slug/
 uploads_dir: "uploads/:title"
 _options:
   content:
-    format: p h1 h2 h3 h4 h5 h6 pre address div span code
+    format: div p h1 h2 h3 h4 h5 h6
     bold: true
+    italic: true
     numberedlist: true
     bulletedlist: true
     image: true
-    code: true
     table: true
     embed: true
-    italic: true
     removeformat: true
     link: true
     undo: true
     redo: true
     underline: true
     strike: true
-    subscript: true
-    superscript: true
     blockquote: true
     horizontalrule: true
+    left: text-left
+    right: text-right
+    center: text-center
 
 
 #==============================================================
