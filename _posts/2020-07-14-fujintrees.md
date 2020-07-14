@@ -1,11 +1,10 @@
 ---
 layout: post
 title: fujintrees
-thumbnail: /uploads/fujintrees-thumbnail.jpg
+thumbnail: /uploads/fujintrees-04.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
 ---
-
 
 ![](/uploads/fujintrees-01.jpg){: width="2000" height="1333"}
 
