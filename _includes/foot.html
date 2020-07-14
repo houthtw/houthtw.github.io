@@ -1,8 +1,3 @@
-<script src="/vendor/jquery-1.11.3.min.js"></script>
-<script src="/vendor/nprogress/nprogress.js"></script>
-<script src="/vendor/vue-2.3.4/dist/vue.js"></script>
-<script src="/js/init.js?{{ site.time | date: '%s' }}"></script>
-
 {% if page.additional_script %}
   {% for js in page.additional_script %}
     <script src="{{ js }}"></script>

@@ -1,7 +1,7 @@
 {
-  "name": "jekyll-starter",
+  "name": "houth-tw",
   "version": "1.0.0",
-  "author": "KANGXI",
+  "author": "Anonymous",
   "private": true,
   "devDependencies": {
     "browser-sync": "^1.3.7",
