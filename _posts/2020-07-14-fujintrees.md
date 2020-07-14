@@ -6,7 +6,6 @@ thumbnail_w: 2000
 thumbnail_h: 1333
 ---
 
-&nbsp;
 
 ![](/uploads/fujintrees-01.jpg){: width="2000" height="1333"}
 
