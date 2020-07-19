@@ -10,15 +10,15 @@ layout: base
     {{ page.description_markdown | markdownify }}
   </div>
   <div class="post-navigation">
-    <div class="back">BACK</div>
-    <div class="where-to-go">
+    <a href="/" class="back">BACK</a>
+    <span class="where-to-go">
       {% if page.previous.url %}
         <a class="prev" href="{{page.previous.url}}">PREV</a>
       {% endif %}
       {% if page.next.url %}
         <a class="next" href="{{page.next.url}}">NEXT</a>
       {% endif %}
-    </div>
+    </span>
   </div>
 </div>
 {% include footer.html %}

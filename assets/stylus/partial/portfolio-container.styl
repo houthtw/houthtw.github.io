@@ -1,11 +1,21 @@
 #portfolio-container
   padding 6px
   padding-top 10px
-  margin-bottom 5rem
+  margin-bottom 3.5rem
+
+  .picrow
+    padding-bottom $bigtext-font-size
+    +below(___)
+      padding-bottom $bigtext-font-size - .2
+    +below(__)
+      padding-bottom $bigtext-font-size - .8
+    +below(_)
+      padding-bottom $bigtext-font-size - 1
 
   .photo-container
+    .photo
+      line-height 0 !important
     .caption
       big-text()
-      margin-top 6px
-      +below(_)
-        margin-top 0
+      line-height 1 !important
+      margin 6px 0
