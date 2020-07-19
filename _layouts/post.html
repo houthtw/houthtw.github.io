@@ -3,7 +3,7 @@ layout: base
 ---
 
 {% include header.html %}
-<div id="container" class="post">
+<div id="container" class="post" style="{% if page.background_color %}background:{{ page.background_color }}!important;{% endif %}{% if page.text_color %}background:{{ page.text_color }}!important;{% endif %}">
   <h1>{{ page.title }}</h1>
   {{ content }}
   <div class="description">
