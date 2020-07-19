@@ -1,5 +1,7 @@
 ---
 layout: post
+background_color: #fff
+text_color: #000
 title: fujintrees
 thumbnail: /uploads/fujintrees/fujintrees-thumbnail.jpg
 thumbnail_w: 2000
