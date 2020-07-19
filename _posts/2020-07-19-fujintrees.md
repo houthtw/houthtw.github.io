@@ -1,7 +1,7 @@
 ---
 layout: post
 title: fujintrees
-thumbnail: /uploads/fujintrees-04.jpg
+thumbnail: /uploads/fujintrees-thumbnail.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
 description_markdown: >-
