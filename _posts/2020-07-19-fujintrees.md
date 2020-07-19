@@ -1,7 +1,7 @@
 ---
 layout: post
 title: fujintrees
-thumbnail: /uploads/fujintrees-thumbnail.jpg
+thumbnail: /uploads/fujintrees/fujintrees-thumbnail.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
 description_markdown: >-
@@ -11,18 +11,18 @@ description_markdown: >-
   民現制陽只放雲草，理記結到才！長顯濟選，物此水出之生來化保一行性布理成關位連錢人種，安片來年外易，須型了說，時看難直家畫少臺運造上別學是。雨利館國條不會畫天就，合險件天的過明臺出親賽雖，小的內容此節商那！消走二在這校們來。不時離問向……藝的常人結現門利，告很多爭？
 ---
 
-<div><img alt="" width="2000" height="1333" src="/uploads/fujintrees-01.jpg" /></div>
+<div><img alt="" width="2000" height="1333" src="/uploads/fujintrees/fujintrees-01.jpg" /></div>
 
-<div><img alt="" width="2000" height="1333" src="/uploads/fujintrees-02.jpg" /></div>
+<div><img alt="" width="2000" height="1333" src="/uploads/fujintrees/fujintrees-02.jpg" /></div>
 
-<div><img alt="" width="2000" height="1333" src="/uploads/fujintrees-03.jpg" /></div>
+<div><img alt="" width="2000" height="1333" src="/uploads/fujintrees/fujintrees-03.jpg" /></div>
 
-<div><img alt="" width="2000" height="1333" src="/uploads/fujintrees-04.jpg" /></div>
+<div><img alt="" width="2000" height="1333" src="/uploads/fujintrees/fujintrees-04.jpg" /></div>
 
-<div><img alt="" width="2000" height="3000" src="/uploads/fujintrees-05.jpg" /></div>
+<div><img alt="" width="2000" height="3000" src="/uploads/fujintrees/fujintrees-05.jpg" /></div>
 
-<div><img alt="" width="2000" height="1333" src="/uploads/fujintrees-06.jpg" /></div>
+<div><img alt="" width="2000" height="1333" src="/uploads/fujintrees/fujintrees-06.jpg" /></div>
 
-<div><img alt="" width="2000" height="1333" src="/uploads/fujintrees-07.jpg" /></div>
+<div><img alt="" width="2000" height="1333" src="/uploads/fujintrees/fujintrees-07.jpg" /></div>
 
-<div><img alt="" width="2000" height="1333" src="/uploads/fujintrees-08.jpg" /></div>
+<div><img alt="" width="2000" height="1333" src="/uploads/fujintrees/fujintrees-08.jpg" /></div>

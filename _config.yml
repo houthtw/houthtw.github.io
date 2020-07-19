@@ -49,8 +49,9 @@ permalink: /portfolio/:slug/
 #==============================================================
 # CloudCannon config
 #==============================================================
-uploads_dir: "uploads/:title"
 _options:
+  image:
+    uploads_dir: "uploads/:title"
   content:
     format: div p h1 h2 h3 h4 h5 h6
     bold: true
