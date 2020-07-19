@@ -15,24 +15,34 @@ layout: default
     }{% if forloop.last == false %},{% endif %}
     {% endfor %}
   ];
-  $('#portfolio-container').empty().justifiedImages({
-      images: portfolio,
-      rowHeight: 550,
-      maxRowHeight: 800,
-      thumbnailPath: function(photo, width, height){
-        return photo.thumbnail;
-      },
-      getSize: function(photo){
-        return {width: photo.thumbnail_w, height: photo.thumbnail_h};
-      },
-      margin: 0
-  });
-</script>
+  function bildergalerie() {
+    var __windowWidth = $(window).width();
+    var __rowHeight = 550;
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+    if (__windowWidth < 1200) {
+      __rowHeight = 400;
+    }
+    else if (__windowWidth < 920) {
+      __rowHeight = 300;
+    }
+
+    $('#portfolio-container').empty().justifiedImages({
+        images: portfolio,
+        rowHeight: __rowHeight,
+        maxRowHeight: 800,
+        thumbnailPath: function(photo, width, height){
+          return photo.thumbnail;
+        },
+        getSize: function(photo){
+          return { width: photo.thumbnail_w, height: photo.thumbnail_h };
+        },
+        template: function(data) {
+          return '<a href="' + data.url + '" class="photo-container" style="margin-right:' + data.marginRight + 'px;"><div class="photo"><img class="image-thumb" src="' + data.src + '" style="width:' + data.displayWidth + 'px;height:' + data.displayHeight + 'px;" ></div><div class="caption">' + data.title + '</div></a>';
+        },
+        margin: 6
+    });
+  }
+
+  bildergalerie();
+  $(window).resize(bildergalerie);
+</script>

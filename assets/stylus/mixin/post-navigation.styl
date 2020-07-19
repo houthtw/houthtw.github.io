@@ -1,0 +1,21 @@
+.post-navigation
+  padding 0 6px
+  zoom 1.1
+
+  .back
+    big-text()
+    float left
+
+  .where-to-go
+    float right
+    a
+      big-text()
+      display inline-block
+    .prev + .next
+      margin-left $bigtext-item-margin
+      +below(___)
+        margin-left $bigtext-item-margin - .2
+      +below(__)
+        margin-left $bigtext-item-margin - .5
+      +below(_)
+        margin-left $bigtext-item-margin - .7
