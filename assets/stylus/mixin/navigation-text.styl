@@ -3,6 +3,12 @@ navigation-text()
   line-height $navigation-line-height
   color $navigation-text-color
   padding 0
+
+  &::after
+    content ""
+    height 100%
+    display inline-block
+
   +below(___)
     font-size $navigation-font-size - .2
   +below(__)
