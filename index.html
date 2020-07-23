@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div id="portfolio-container"></div>
+<div id="works-container"></div>
 <script>
-  var portfolio = [
+  var works = [
     {% for post in site.posts %}
     {
       url: '{{ post.url }}',
@@ -26,8 +26,8 @@ layout: default
       __rowHeight = 300;
     }
 
-    $('#portfolio-container').empty().justifiedImages({
-        images: portfolio,
+    $('#works-container').empty().justifiedImages({
+        images: works,
         rowHeight: __rowHeight,
         maxRowHeight: 1000,
         thumbnailPath: function(photo, width, height){

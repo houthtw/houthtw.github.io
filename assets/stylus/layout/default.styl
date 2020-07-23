@@ -1,4 +1,21 @@
 #container
   width 100%
   height auto
-  margin 2.5rem 0
+  padding 0 0 2.6rem
+  margin 0
+  margin-top $bigtext-line-height
+
+  h1
+    display block
+    font-size $bigtext-font-size
+    line-height 1
+    padding 17px 6px 0
+    +below(___)
+      font-size $bigtext-font-size - .2
+    +below(__)
+      font-size $bigtext-font-size - .8
+    +below(_)
+      font-size $bigtext-font-size - 1
+
+  p
+    margin 0 6px
