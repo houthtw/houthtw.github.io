@@ -5,8 +5,11 @@ layout: base
 {% include header.html %}
 <div id="container" class="post">
   <h1>{{ page.title }}</h1>
-  {{ content }}
   <div class="description">
     {{ page.description_markdown | markdownify }}
+  </div>
+  {{ content }}
+  <div class="information">
+    {{ page.infomation_markdown | markdownify }}
   </div>
 </div>

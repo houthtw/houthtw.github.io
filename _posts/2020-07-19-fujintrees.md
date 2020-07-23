@@ -9,6 +9,10 @@ description_markdown: >-
 
 
   民現制陽只放雲草，理記結到才！長顯濟選，物此水出之生來化保一行性布理成關位連錢人種，安片來年外易，須型了說，時看難直家畫少臺運造上別學是。雨利館國條不會畫天就，合險件天的過明臺出親賽雖，小的內容此節商那！消走二在這校們來。不時離問向……藝的常人結現門利，告很多爭？
+infomation_markdown: >-
+  We created a brand identity and packaging design for a Budapest based CBD oil manufacture. The base of the branding is a stylized cannabis symbol that emphasizes the magical geometry of the leaf.
+
+  2019
 ---
 
 <div><img alt="" width="2000" height="1333" src="/uploads/fujintrees/fujintrees-01.jpg" /></div>
