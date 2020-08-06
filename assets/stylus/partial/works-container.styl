@@ -1,22 +1,50 @@
 #works-container
+  clearfix()
   padding 6px
   padding-top 10px
 
-  .picrow
-    padding-bottom $bigtext-font-size
-    +below(___)
-      padding-bottom $bigtext-font-size - .2
-    +below(__)
-      padding-bottom $bigtext-font-size - .8
-    +below(_)
-      padding-bottom $bigtext-font-size - 1
-
   .photo-container
+    display block
+    float left
+    box-sizing border-box
+    width calc(50% - 6px)
     .photo
+      width 100%
+      height 550px
+      background-size cover
+      background-position center center
+      box-sizing border-box
       line-height 0 !important
+      +below(___)
+        height 400px
+      +below(__)
+        height 300px
+      +below(_)
+        height 250px
     .caption
       big-text()
       line-height 1 !important
+      box-sizing border-box
       margin 6px 0
       &:hover
         color: $link-hover-color
+
+  &.even
+    .photo-container
+      &:nth-child(3n+1)
+        clearfix()
+        width 100%
+      &:nth-child(3n+2)
+        margin-right 6px
+      &:nth-child(3n+3)
+        margin-left 6px
+
+  &.odd
+    .photo-container
+      &:nth-child(3n+1)
+        margin-right 6px
+      &:nth-child(3n+2)
+        margin-left 6px
+      &:nth-child(3n+3)
+        clearfix()
+        width 100%
