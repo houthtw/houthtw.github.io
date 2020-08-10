@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about
 permalink: /about/
 title: ABOUT
 ---
@@ -110,4 +110,8 @@ title: ABOUT
     </p>
   </div>
 </div>
-{% include footer.html %}
+<div class="about-sns">
+  <span><a href="https://www.behance.net/HOUTH" target="_blank">BEHANCE</a></span>
+  <span><a href="https://www.instagram.com/houth.tw/" target="_blank">INSTAGRAM</a></span>
+  <span><a href="https://www.facebook.com/houth.tw/" target="_blank">FACEBOOK</a></span>
+</div>
