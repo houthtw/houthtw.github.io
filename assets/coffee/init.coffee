@@ -66,5 +66,5 @@ window.onload = ->
   $('body').addClass 'loaded'
 
 $ ->
-  # dotdotdot
-  # $('.ddd').dotdotdot()
+  $('.mobile-nav-button').on 'click', ->
+    $('.mobile-nav, .mobile-nav-button').toggleClass 'open'
