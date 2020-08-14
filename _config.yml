@@ -54,7 +54,7 @@ _options:
     uploads_dir: "uploads/:title"
   content:
     uploads_dir: "uploads/:title"
-    format: div p h1 h2 h3 h4 h5 h6
+    format: div
     bold: true
     italic: true
     numberedlist: true
