@@ -28,6 +28,8 @@
       margin $global-padding 0
       &:hover
         color: $link-hover-color
+    +below(__)
+      width "calc(50% - %s)" % 3px
 
   &.even
     .photo-container
@@ -35,16 +37,38 @@
         clearfix()
         width 100%
       &:nth-child(3n+2)
+      &:nth-child(3n+3)
+        .photo
+          +below(_)
+            height 220px
+          +below(_)
+            height 180px
+      &:nth-child(3n+2)
         margin-right $global-padding
+        +below(__)
+          margin-right 3px
       &:nth-child(3n+3)
         margin-left $global-padding
+        +below(__)
+          margin-left 3px
 
   &.odd
     .photo-container
       &:nth-child(3n+1)
+      &:nth-child(3n+2)
+        .photo
+          +below(_)
+            height 220px
+          +below(_)
+            height 180px
+      &:nth-child(3n+1)
         margin-right $global-padding
+        +below(__)
+          margin-right 3px
       &:nth-child(3n+2)
         margin-left $global-padding
+        +below(__)
+          margin-left 3px
       &:nth-child(3n+3)
         clearfix()
         width 100%

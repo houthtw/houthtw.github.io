@@ -2,9 +2,9 @@
 layout: default
 ---
 
-{% assign posts_odd_or_even = site.posts | size | modulo: 2 %}
+{% assign posts_odd_or_even = site.posts | size | modulo: 3 %}
 
-<div id="works-container" class="{% if posts_odd_or_even == 0 %}even{% else %}odd{% endif %}">
+<div id="works-container" class="{% if posts_odd_or_even == 1 %}even{% elsif posts_odd_or_even == 2 %}odd{% else %}even{% endif %}">
   {% for post in site.posts %}
     <a href="{{ post.url }}" class="photo-container">
       <div class="photo" style="background-image: url('{{ post.thumbnail }}')"></div>
