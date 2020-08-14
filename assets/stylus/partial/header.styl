@@ -26,7 +26,7 @@
       position absolute
       left 0
       background $global-text-color
-      transition .25s ease-in-out
+      // transition .25s ease-in-out
       transform rotate(0deg)
       &:first-child
         top 4px
@@ -35,12 +35,11 @@
     &.open
       span
         top 11px
-        left -6px
-        height 3px
+        left -5px
       span:first-child
-        transform: rotate(135deg)
+        transform: rotate(160deg)
       span:last-child
-        transform: rotate(45deg)
+        transform: rotate(20deg)
     +below(__)
       display block
     +above(__)
@@ -55,21 +54,26 @@
     opacity 0
     z-index -1
     background rgb(0,0,255)
-    background linear-gradient(180deg, rgba(0,0,255,1) 0%, rgba(0,0,255,1) 25%, rgba(0,0,255,0) 100%)
-    transition all 1000ms cubic-bezier(0.165, 0.84, 0.44, 1)
+    background linear-gradient(180deg, #00f 0%, #00f 60%, rgba(0,0,255,0) 120%)
+    transition all 500ms cubic-bezier(0.165, 0.84, 0.44, 1)
     &.open
       z-index 42689
       opacity 1
     ul
       list-style none
       margin 0
-      padding 0 $global-padding
+      padding 0
+      padding-right 2.6rem
       li
-        big-text()
+        font-size $bigtext-font-size
+        line-height $bigtext-line-height
+        color $bigtext-text-color
+        padding 0
         list-style none
         text-align right
-        line-height 1.2
+        line-height 1.4
         margin-right $global-padding
+        font-size $bigtext-font-size - 1.2
       &:nth-child(1)
         margin-top 40px
       &:nth-child(2)
