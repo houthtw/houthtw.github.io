@@ -1,0 +1,23 @@
+#mobile-logo
+  padding 0 $global-padding
+  text-align right
+  margin-top 3rem
+  img
+    max-height 88px
+    width auto
+
+#mobile-nav-logo
+  position fixed
+  top $global-padding + 1px
+  right $global-padding + 40px
+  z-index 4268
+  +above(__)
+    display none
+  img
+    max-height 0
+    width auto
+    transition 100ms all ease-in-out
+  &.show
+    img
+      max-height 24px
+
