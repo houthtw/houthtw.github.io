@@ -1,7 +1,7 @@
 ---
 layout: post
 title: STAR HOSTEL
-thumbnail: /uploads/thumbnail-7.jpg
+thumbnail: /uploads/star-hostel/thumbnail.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
 description_markdown: >-
@@ -21,4 +21,4 @@ infomation_markdown: >-
   &nbsp;
 ---
 
-<div><img width="2000" height="1459" src="/uploads/01.jpg" /><img width="2000" height="1333" src="/uploads/02.jpg" /><img width="2000" height="1333" src="/uploads/03.jpg" /><img width="2000" height="1333" src="/uploads/04.jpg" /><img width="2000" height="1500" src="/uploads/05.jpg" /><img width="2000" height="1294" src="/uploads/06.jpg" /><img width="2000" height="1333" src="/uploads/07.jpg" /><img width="2000" height="1333" src="/uploads/08.jpg" /><img width="2000" height="1333" src="/uploads/09.jpg" /><img width="2000" height="1333" src="/uploads/10.jpg" /><img width="2000" height="1333" src="/uploads/11.jpg" /><img width="2000" height="1500" src="/uploads/12.jpg" /><img width="2000" height="1333" src="/uploads/13.jpg" /><img width="2000" height="1333" src="/uploads/14.jpg" /><img width="2000" height="1333" src="/uploads/15.jpg" /><img width="2000" height="1333" src="/uploads/16.jpg" /><img width="2000" height="1333" src="/uploads/17.jpg" /><img width="2000" height="3000" src="/uploads/19.jpg" /><img width="2000" height="1333" src="/uploads/20.jpg" /><img width="2000" height="1333" src="/uploads/21.jpg" /></div>
+<div><img src="/uploads/star-hostel/01.jpg" width="2000" height="1459" /><img src="/uploads/star-hostel/02.jpg" width="2000" height="1333" /><img src="/uploads/star-hostel/03.jpg" width="2000" height="1333" /><img src="/uploads/star-hostel/04.jpg" width="2000" height="1333" /><img src="/uploads/star-hostel/05.jpg" width="2000" height="1500" /><img src="/uploads/star-hostel/06.jpg" width="2000" height="1294" /><img src="/uploads/star-hostel/07.jpg" width="2000" height="1333" /><img src="/uploads/star-hostel/08.jpg" width="2000" height="1333" /><img src="/uploads/star-hostel/09.jpg" width="2000" height="1333" /><img src="/uploads/star-hostel/10.jpg" width="2000" height="1333" /><img src="/uploads/star-hostel/11.jpg" width="2000" height="1333" /><img src="/uploads/star-hostel/12.jpg" width="2000" height="1500" /><img src="/uploads/star-hostel/13.jpg" width="2000" height="1333" /><img src="/uploads/star-hostel/14.jpg" width="2000" height="1333" /><img src="/uploads/star-hostel/16.jpg" width="2000" height="1333" /><img src="/uploads/star-hostel/17.jpg" width="2000" height="1333" /><img src="/uploads/star-hostel/19.jpg" width="2000" height="3000" /><img src="/uploads/star-hostel/20.jpg" width="2000" height="1333" /><img src="/uploads/star-hostel/21.jpg" width="2000" height="1333" /></div>
