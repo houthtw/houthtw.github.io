@@ -8,8 +8,8 @@ description_markdown: >-
   2018 Chinese new year red envelope design for Yun San Motors, including Aston
   Martin, Bentley, Bugatti, McLaren.
 infomation_markdown: >-
-  Year: 2018&nbsp; &nbsp;<br>Client: Yun San Motors&nbsp; &nbsp;<br>CD: Huang
-  Chi Teng<br>AD&D: Ho Wan Chun &nbsp; &nbsp;&nbsp;<br>Print: 山山印刷
+  Year : 2018&nbsp; &nbsp;<br>Client : Yun San Motors&nbsp; &nbsp;<br>CD : Huang
+  Chi Teng<br>AD&D : Ho Wan Chun &nbsp; &nbsp;&nbsp;<br>Print : 山山印刷
 
 
   &nbsp;
