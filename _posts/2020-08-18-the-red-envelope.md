@@ -1,7 +1,7 @@
 ---
 layout: post
 title: THE RED ENVELOPE
-thumbnail: /uploads/thumbnail-1.jpg
+thumbnail: /uploads/red-envelope/thumbnail.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
 description_markdown: >-
@@ -15,4 +15,4 @@ infomation_markdown: >-
   &nbsp;
 ---
 
-<div><img width="2000" height="1333" src="/uploads/01.jpg" /><img width="2000" height="1333" src="/uploads/02.jpg" /><img width="2000" height="1333" src="/uploads/03.jpg" /><img width="2000" height="1333" src="/uploads/04.jpg" /><img width="2000" height="1333" src="/uploads/05.jpg" /><img width="2000" height="1333" src="/uploads/06.jpg" /><img width="2000" height="1333" src="/uploads/07.jpg" /><img width="2000" height="1333" src="/uploads/08.jpg" /><img width="2000" height="1333" src="/uploads/09.jpg" /><img width="2000" height="1333" src="/uploads/10.jpg" /><img width="2000" height="1333" src="/uploads/11.jpg" /><img width="2000" height="1333" src="/uploads/12.jpg" /><img width="2000" height="1333" src="/uploads/13.jpg" /><img width="2000" height="1333" src="/uploads/14.jpg" /><img width="2000" height="1333" src="/uploads/15.jpg" /><img width="2000" height="1333" src="/uploads/16.jpg" /></div>
+![](/uploads/red-envelope/07.jpg){: width="2000" height="1333"}![](/uploads/red-envelope/01.jpg){: width="2000" height="1333"}![](/uploads/red-envelope/02.jpg){: width="2000" height="1333"}![](/uploads/red-envelope/03.jpg){: width="2000" height="1333"}![](/uploads/red-envelope/04.jpg){: width="2000" height="1333"}![](/uploads/red-envelope/05.jpg){: width="2000" height="1333"}![](/uploads/red-envelope/06.jpg){: width="2000" height="1333"}
