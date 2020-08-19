@@ -6,13 +6,11 @@ thumbnail_w: 2000
 thumbnail_h: 1333
 description_markdown: >-
   **品牌識別與指標系統設計**<br>Star Hostel
-  2019年開始的嶄新計畫，位於頂層一覽城市天際線，戶外露台以及溫室綠植設計概念，與自然纏繞共生。起始於旅人停留的空間，回歸旅行與生活的本質，不只是棲身之所，而是重新與人、與自然連結、永續生活的啟發之地。結合誠品書店、商場為垂直生活聚落，迎接在地與世界旅人感受台中花園城市的魅力。
+  2019年開始的嶄新計畫，位於頂層一覽城市天際線，戶外露台以及溫室綠植設計概念，與自然纏繞共生。起始於旅人停留的空間，回歸旅行與生活的本質，不只是棲身之所，而是重新與人、與自然連結、永續生活的啟發之地。結合誠品書店、商場為垂直生活聚落，迎接在地與世界旅人感受台中花園城市的魅力。視覺設計以，Near
+  the Star 貼近星空的自在交流，作為概念發展核心。
 
 
-  視覺設計以，Near the Star 貼近星空的自在交流，作為概念發展核心。
-
-
-  **Branding & Wayfinding System for Star Hostel Taichung Parklane **
+  **Branding & Wayfinding System for Star Hostel Taichung Parklane**
 infomation_markdown: >-
   Year : 2019<br>Client : Star Hostel<br>CD : Huang Chi Teng<br>AD : Ho Wan
   Chun<br>D : Ho Wan Chun, 黃郁惠<br>Interior Design : 河作計畫&nbsp; &nbsp;&nbsp;
