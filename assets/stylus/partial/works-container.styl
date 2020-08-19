@@ -42,7 +42,7 @@
       &:hover
         color: $link-hover-color
     +below(__)
-      width "calc(50% - %s)" % ($global-padding-half*.5)
+      width "calc(50% - %s)" % ($global-padding-half*1)
     +above(_____)
       width "calc(50% - %s)" % ($global-padding*1.5*.5)
     +above(______)
@@ -63,7 +63,7 @@
       &:nth-child(3n+2)
         margin-right $global-padding*.5
         +below(__)
-          margin-right $global-padding-half*.5
+          margin-right $global-padding-half
         +above(_____)
           margin-right $global-padding*1.5*.5
         +above(______)
@@ -89,7 +89,7 @@
       &:nth-child(3n+1)
         margin-right $global-padding*.5
         +below(__)
-          margin-right $global-padding-half*.5
+          margin-right $global-padding-half
         +above(_____)
           margin-right $global-padding*1.5*.5
         +above(______)
@@ -97,7 +97,7 @@
       &:nth-child(3n+2)
         margin-left $global-padding*.5
         +below(__)
-          margin-left $global-padding-half*.5
+          margin-left $global-padding-half
         +above(_____)
           margin-left $global-padding*1.5*.5
         +above(______)
