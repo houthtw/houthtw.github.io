@@ -26,7 +26,7 @@ title: ABOUT
   <div class="column">
     <h1>OUR DESIGN</h1>
     <p>
-      Design is not about style, but creating emotional visual to relate and effectively communicate and create value. We keep exploring the boundaries between art and business, generating surprises from logical process, and implementing intuition and creativity into unexpected possibilities.
+      Design is not about style, but creating emotional visual to relate and effectively communicate and create value. We keep exploring the boundaries between art and business, generating surprises from logical process, and implementing intuition and creativity into unexpected possibilities.<br />
       設計對我們來說不在於風格，而是創造情緒視覺，產生共鳴，進而有效傳遞資訊與創造價值。我們不斷模糊藝術與商業的界線，從邏輯中產生驚喜，把直覺與創意落實成出乎預料的可能性。
     </p>
   </div>
@@ -101,7 +101,7 @@ title: ABOUT
     <h1>CONTACT</h1>
     <p>
       T&nbsp;&nbsp;&nbsp;&nbsp;02 2718 1068<br />
-      E&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:hans@houth.tw">hans@houth.tw</a>
+      E&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:info@houth.tw">info@houth.tw</a>
     </p>
   </div>
   <div class="column mobile-hide">

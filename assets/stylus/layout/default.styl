@@ -6,13 +6,17 @@
   margin-top $bigtext-line-height
 
   +below(__)
-    margin-top 0
+    margin-top 40px
+  +above(_____)
+    margin-top $bigtext-line-height * 1.5
+  +above(______)
+    margin-top $bigtext-font-size * 4
 
   h1
     display block
     font-size $bigtext-font-size
     line-height 1
-    padding 17px $global-padding 0
+    padding 1rem $global-padding 0
 
     +below(___)
       font-size $bigtext-font-size - .2
@@ -20,6 +24,18 @@
       font-size $bigtext-font-size - .4
     +below(_)
       font-size $bigtext-font-size - 1.5
+    +above(_____)
+      padding 1.5rem $global-padding*1.5 0
+      font-size $bigtext-font-size * 1.5
+      line-height $bigtext-line-height * 1.5
+    +above(______)
+      padding 4rem $global-padding*4 0
+      font-size $bigtext-font-size * 4
+      line-height $bigtext-line-height * 4
 
   p
     margin 0 $global-padding
+    +above(_____)
+      margin 0 $global-padding*1.5
+    +above(______)
+      margin 0 $global-padding*4

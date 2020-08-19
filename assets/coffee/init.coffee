@@ -68,9 +68,3 @@ window.onload = ->
 $ ->
   $('.mobile-nav-button').on 'click', ->
     $('.mobile-nav, .mobile-nav-button').toggleClass 'open'
-
-  $(window).scroll ->
-    if $(this).scrollTop() > 100
-      $('#mobile-nav-logo').addClass 'show'
-    else
-      $('#mobile-nav-logo').removeClass 'show'

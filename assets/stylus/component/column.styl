@@ -7,18 +7,10 @@
 
   > .column
     width "calc(100% / 2 - %s)" % ($global-padding * 2)
-
-  .column-8
-    width "calc(100% / 12 * 8 - %s)" % ($global-padding * 2)
-
-  .column-4
-    width "calc(100% / 12 * 4 - %s)" % ($global-padding * 2)
-
-  +below(___)
-    &.pad-full-width
-      display block
-      .column
-        width 100%
+    +above(_____)
+      width "calc(100% / 2 - %s)" % ($global-padding * 2 * 1.5)
+    +above(_____)
+      width "calc(100% / 2 - %s)" % ($global-padding * 2 * 4)
 
   +below(__)
     &.mobile-full-width
@@ -32,3 +24,7 @@
 
   > .column
     width "calc(100% / 4 - %s)" % ($global-padding * 2)
+    +above(_____)
+      width "calc(100% / 4 - %s)" % ($global-padding * 2 * 1.5)
+    +above(_____)
+      width "calc(100% / 4 - %s)" % ($global-padding * 2 * 4)

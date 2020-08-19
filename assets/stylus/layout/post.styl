@@ -1,31 +1,50 @@
 #container.post
   width 100%
   height auto
-  padding 0 0 2.6rem
+  padding 0 0 $global-padding
   margin 0
   margin-top $bigtext-line-height
 
   +below(__)
-    margin-top 0
+    margin-top 40px
+  +above(_____)
+    padding 0 0 $global-padding * 1.5
+  +above(______)
+    padding 0 0 $global-padding * 2
 
   h1
     display block
     font-size $bigtext-font-size
     line-height 1
-    padding 17px $global-padding 0
+    padding 1rem $global-padding 0
     +below(___)
       font-size $bigtext-font-size - .2
     +below(__)
       font-size $bigtext-font-size - .8
     +below(_)
       font-size $bigtext-font-size - 1
+    +above(_____)
+      padding 1.5rem $global-padding*1.5 0
+      font-size $bigtext-font-size * 1.5
+      line-height $bigtext-line-height * 1.5
+    +above(______)
+      padding 4rem $global-padding*4 0
+      font-size $bigtext-font-size * 4
+      line-height $bigtext-line-height * 4
+
 
   div
     line-height 0
     &.description
     &.information
-      margin-top $global-line-height
+      margin-top $global-padding
       padding 0 $global-padding
+      +above(_____)
+        margin-top $global-padding*1.5
+        padding 0 $global-padding*1.5
+      +above(______)
+        margin-top $global-padding*4
+        padding 0 $global-padding*4
       p
         line-height $global-line-height
         margin 0
@@ -39,6 +58,14 @@
         +below(_)
           font-size $global-font-size - 0.6
           line-height $global-line-height - 0.8
+        +above(_____)
+          font-size $global-font-size * 1.5
+          line-height $global-line-height * 1.5
+          margin-bottom $global-line-height * 1.5
+        +above(______)
+          font-size $global-font-size * 4
+          line-height $global-line-height * 4
+          margin-bottom $global-line-height * 4
     img
       width 100%
       height auto

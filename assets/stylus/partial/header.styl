@@ -4,8 +4,15 @@
   left 0
   right 0
   z-index 1000
-  padding $global-padding $global-padding 0 $global-padding
+  padding $global-padding
+  padding-bottom 0
   background $global-background
+  +above(_____)
+    padding $global-padding*1.5
+    padding-bottom 0
+  +above(______)
+    padding $global-padding*4
+    padding-bottom 0
 
   .header-nav
     navigation()
@@ -19,9 +26,18 @@
       max-width 200px
       height auto
 
+    +below(__)
+      display none
     +above(___)
       img
         max-width 300px
-
-    +below(__)
-      display none
+    +above(_____)
+      top 40px
+      right 40px
+      img
+        max-width 400px
+    +above(______)
+      top 80px
+      right 80px
+      img
+        max-width 1000px

@@ -1,13 +1,19 @@
 #works-container
   clearfix()
   padding $global-padding
-  padding-top 10px
+  padding-top 0
+  +above(_____)
+    padding $global-padding*1.5
+    padding-top 0
+  +above(______)
+    padding $global-padding*4
+    padding-top 0
 
   .photo-container
     display block
     float left
     box-sizing border-box
-    width "calc(50% - %s)" % $global-padding
+    width "calc(50% - %s)" % ($global-padding*.5)
     .photo
       width 100%
       height 550px
@@ -21,15 +27,26 @@
         height 300px
       +below(_)
         height 250px
+      +above(_____)
+        height 0
+        padding-top 66.6%
     .caption
       big-text()
       line-height 1 !important
       box-sizing border-box
       margin $global-padding 0
+      +above(_____)
+        margin $global-padding*1.5 0
+      +above(______)
+        margin $global-padding*4 0
       &:hover
         color: $link-hover-color
     +below(__)
-      width "calc(50% - %s)" % 3px
+      width "calc(50% - %s)" % ($global-padding-half*.5)
+    +above(_____)
+      width "calc(50% - %s)" % ($global-padding*1.5*.5)
+    +above(______)
+      width "calc(50% - %s)" % ($global-padding*4*.5)
 
   &.even
     .photo-container
@@ -44,13 +61,21 @@
           +below(_)
             height 180px
       &:nth-child(3n+2)
-        margin-right $global-padding
+        margin-right $global-padding*.5
         +below(__)
-          margin-right 3px
+          margin-right $global-padding-half*.5
+        +above(_____)
+          margin-right $global-padding*1.5*.5
+        +above(______)
+          margin-right $global-padding*4*.5
       &:nth-child(3n+3)
-        margin-left $global-padding
+        margin-left $global-padding*.5
         +below(__)
-          margin-left 3px
+          margin-left $global-padding-half
+        +above(_____)
+          margin-left $global-padding*1.5*.5
+        +above(______)
+          margin-left $global-padding*4*.5
 
   &.odd
     .photo-container
@@ -62,13 +87,21 @@
           +below(_)
             height 180px
       &:nth-child(3n+1)
-        margin-right $global-padding
+        margin-right $global-padding*.5
         +below(__)
-          margin-right 3px
+          margin-right $global-padding-half*.5
+        +above(_____)
+          margin-right $global-padding*1.5*.5
+        +above(______)
+          margin-right $global-padding*4*.5
       &:nth-child(3n+2)
-        margin-left $global-padding
+        margin-left $global-padding*.5
         +below(__)
-          margin-left 3px
+          margin-left $global-padding-half*.5
+        +above(_____)
+          margin-left $global-padding*1.5*.5
+        +above(______)
+          margin-left $global-padding*4*.5
       &:nth-child(3n+3)
         clearfix()
         width 100%
