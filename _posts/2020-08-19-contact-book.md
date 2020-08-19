@@ -14,7 +14,7 @@ description_markdown: >-
   HOUTH一起邀請插畫家周依與李竺潔執行內頁的插畫設計，讓學生可以在一本聯絡簿上，感受不同的的詮釋主題的觀點與插畫想像，來發掘創作多元傳達的觀點。
 
 
-  **Contact Book design**<br>The junior high school contact book is known as a
+  **Contact Book Design**<br>The junior high school contact book is known as a
   communication book between students, teachers and parents. But it’s also a
   good opportunity to help students develop and build up the aesthetic sense.
   HOUTH got invited and redesign the 2019 1st semester junior high school
