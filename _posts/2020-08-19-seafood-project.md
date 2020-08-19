@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEAFOOD
+title: SEAFOOD PROJECT
 thumbnail: /uploads/nanfangao/thumbnail.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
