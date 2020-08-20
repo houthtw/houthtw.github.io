@@ -16,20 +16,12 @@
     width "calc(50% - %s)" % ($global-padding*.5)
     .photo
       width 100%
-      height 550px
+      height 0
+      padding-top 66.6%
       background-size cover
       background-position center center
       box-sizing border-box
       line-height 0 !important
-      +below(___)
-        height 400px
-      +below(__)
-        height 300px
-      +below(_)
-        height 250px
-      +above(_____)
-        height 0
-        padding-top 66.6%
     .caption
       big-text()
       line-height 1 !important
