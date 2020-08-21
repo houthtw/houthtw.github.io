@@ -23,9 +23,9 @@ admin_email: hello@houth.tw
 #==============================================================
 # Site settings
 #==============================================================
-site_name         : Houth
-site_title        : Houth
-site_description  : 網站描述
+site_name         : HOUTH
+site_title        : HOUTH
+site_description  : A creative studio focusing on brand strategy and design.
 site_url          : https://houth.tw
 site_version      : 1.0.0
 og_type           : website
