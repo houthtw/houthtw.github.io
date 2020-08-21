@@ -28,3 +28,17 @@
       width "calc(100% / 4 - %s)" % ($global-padding * 2 * 1.5)
     +above(_____)
       width "calc(100% / 4 - %s)" % ($global-padding * 2 * 4)
+
+
+  +below(__)
+    &.mobile-half-width
+      clearfix()
+      display block
+      .column
+        display block
+        float left
+        width "calc(100% / 2 - %s)" % ($global-padding * 2)
+        &:nth-child(1)
+        &:nth-child(2)
+          margin-bottom $global-padding
+
