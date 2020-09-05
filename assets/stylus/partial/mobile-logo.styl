@@ -5,10 +5,14 @@
   z-index 4268
   padding 0 $global-padding
   text-align right
-  margin-top 34px
+  margin-top 45px
+  +below(_)
+    margin-top 34px
   img
-    max-height 75px
+    max-height 115px
     width auto
+    +below(_)
+      max-height 75px
 
 #mobile-nav-logo
   position fixed
