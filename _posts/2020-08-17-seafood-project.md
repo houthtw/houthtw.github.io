@@ -24,4 +24,4 @@ infomation_markdown: |-
   &nbsp;
 ---
 
-<div><img width="2000" height="1333" src="/uploads/nanfangao/01.jpg" /><img width="2000" height="1333" src="/uploads/nanfangao/02.jpg" /><img width="2000" height="1333" src="/uploads/nanfangao/03.jpg" /><img width="2000" height="1333" src="/uploads/nanfangao/04.jpg" /></div>
+<div><img width="2000" height="1333" src="/uploads/nanfangao/02.jpg" /><img width="2000" height="1333" src="/uploads/nanfangao/03.jpg" /><img width="2000" height="1333" src="/uploads/nanfangao/04.jpg" /></div>
