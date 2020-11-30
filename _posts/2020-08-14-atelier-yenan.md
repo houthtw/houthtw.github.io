@@ -19,4 +19,4 @@ infomation_markdown: |-
   &nbsp;
 ---
 
-<div><img width="2000" height="1333" src="/uploads/atelier-YenAn/01.jpg" /><img width="2000" height="1333" src="/uploads/atelier-YenAn/02.jpg" /><img width="2000" height="1333" src="/uploads/atelier-YenAn/03.jpg" /><img width="2000" height="1333" src="/uploads/atelier-YenAn/04.jpg" /></div>
+<div><img width="2000" height="1333" src="/uploads/atelier-YenAn/01.jpg" /><img width="2000" height="1333" src="/uploads/atelier-YenAn/03.jpg" /><img width="2000" height="1333" src="/uploads/atelier-YenAn/04.jpg" /></div>
