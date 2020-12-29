@@ -31,9 +31,9 @@ description_markdown: >-
   透過新型態的概念店與營運方式，帶來年輕族群為地方注入創意與活力，同時為地方與傳統文化帶來新發展可能，甚至增加地方工作機會，解決目前所遇到的困境。
 
 
-  <br>DOOR to ASIA is a designers in residence program where designers from
-  Asian countries gather in a community for a period of time to create
-  “communication design” for the local companies.
+  DOOR to ASIA is a designers in residence program where designers from Asian
+  countries gather in a community for a period of time to create “communication
+  design” for the local companies.
 
 
   Ho Wan Chun, the designer of HOUTH, got invited to join the 7 days residence
