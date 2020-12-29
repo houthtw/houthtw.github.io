@@ -1,12 +1,11 @@
 ---
 layout: post
 title: TTT PROJECT
-thumbnail: /uploads/ttt-project/thumbnail.jpg
+thumbnail: /uploads/ttt-project/09.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
 description_markdown: >-
-  **ttt Project**<br>DOOR to ASIA
-  是一個設計師駐村計畫，邀請亞洲地區設計師前來日本當地社區駐村一段時間，為在地企業創造並提供永續經營的傳達設計觀點與方法。
+  DOOR to ASIA 是一個設計師駐村計畫，邀請亞洲地區設計師前來日本當地社區駐村一段時間，為在地企業創造並提供永續經營的傳達設計觀點與方法。
 
 
   受DOOR to ASIA之邀，HOUTH設計師何婉君參加了DESIGN CAMP in NARA
@@ -32,9 +31,9 @@ description_markdown: >-
   透過新型態的概念店與營運方式，帶來年輕族群為地方注入創意與活力，同時為地方與傳統文化帶來新發展可能，甚至增加地方工作機會，解決目前所遇到的困境。
 
 
-  **ttt Project**<br>DOOR to ASIA is a designers in residence program where
-  designers from Asian countries gather in a community for a period of time to
-  create “communication design” for the local companies.
+  <br>DOOR to ASIA is a designers in residence program where designers from
+  Asian countries gather in a community for a period of time to create
+  “communication design” for the local companies.
 
 
   Ho Wan Chun, the designer of HOUTH, got invited to join the 7 days residence
@@ -83,4 +82,4 @@ infomation_markdown: |-
   &nbsp;
 ---
 
-![](/uploads/ttt-project/02.jpg){: width="2000" height="1500"}![](/uploads/ttt-project/03.jpeg){: width="2000" height="1125"}![](/uploads/ttt-project/04.jpg){: width="2000" height="1500"}![](/uploads/ttt-project/05.jpg){: width="2000" height="1333"}![](/uploads/ttt-project/06.jpg){: width="2000" height="1333"}![](/uploads/ttt-project/07.jpg){: width="2000" height="1333"}![](/uploads/ttt-project/08.jpg){: width="2000" height="1333"}![](/uploads/ttt-project/10.jpg){: width="2000" height="1385"}![](/uploads/ttt-project/11.jpg){: width="2000" height="1415"}![](/uploads/ttt-project/12.jpg){: width="2000" height="1414"}![](/uploads/ttt-project/13.jpg){: width="2000" height="1384"}![](/uploads/ttt-project/14.jpg){: width="2000" height="1384"}![](/uploads/ttt-project/15.jpg){: width="2000" height="1329"}
+<div><img alt="" width="2000" height="1125" src="/uploads/ttt-project/03.jpeg" /><img alt="" width="2000" height="1500" src="/uploads/ttt-project/04.jpg" /><img alt="" width="2000" height="1333" src="/uploads/ttt-project/05.jpg" /><img alt="" width="2000" height="1333" src="/uploads/ttt-project/08.jpg" /><img src="/uploads/ttt-project/02.jpg" width="2000" height="1333" /><img src="/uploads/ttt-project/04.jpg" width="2000" height="1333" /><img src="/uploads/ttt-project/06.jpg" width="2000" height="1333" /><img src="/uploads/ttt-project/07.jpg" width="2000" height="1333" /><img src="/uploads/ttt-project/08.jpg" width="2000" height="1333" /><img src="/uploads/ttt-project/10.jpg" width="2000" height="1333" /><img src="/uploads/ttt-project/11.jpg" width="2000" height="1415" /><img src="/uploads/ttt-project/12.jpg" width="2000" height="1414" /><img src="/uploads/ttt-project/13.jpg" width="2000" height="1333" /><img src="/uploads/ttt-project/14.jpg" width="2000" height="1333" /><img src="/uploads/ttt-project/15.jpg" width="2000" height="1333" /></div>
