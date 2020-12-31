@@ -76,8 +76,13 @@ description_markdown: >-
   Through the new concept store and new business model, to bring the young
   people back and increase the local creativity and energy, to refresh the local
   and traditional culture, even to increase employment opportunities.
-infomation_markdown: |-
-  Year : 2019<br>Invite by : DOOR to ASIA<br>Design : Ho Wan Chun<br>&nbsp;
+infomation_markdown: >-
+  Year : 2019<br>Host by : DOOR to ASIA, DESIGN CAMP in NARA Japan<br>Company
+  :&nbsp; 嘉兵衛本舖 KAHEE HONPO<br>Visual Identity Design : Ho Wan Chun<br>Strategy
+  Planning : Urara Matsumoto, Ho Wan Chun<br>Interpreter : Chloe Chong<br>Local
+  Tutor : Hirose Yuko<br>Special Thanks : Pip and everyone who participate in
+  this project
+
 
   &nbsp;
 ---
