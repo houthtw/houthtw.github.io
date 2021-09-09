@@ -1,6 +1,6 @@
 ---
 layout: post
-title: office
+title: office aaa
 thumbnail: /uploads/office-aaa/1.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
