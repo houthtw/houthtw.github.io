@@ -14,22 +14,14 @@ description_markdown: >-
   中文名從究境建築事務所，更改為究境聯合建築師事務所，英文名則建議調整為更貼近品牌精神的office aaa。
 
 
-  aaa 是 architecture at all 的縮寫，建築到底是什麼？探究著建築的本質。
-
-
-  aaa 也代表了 3 位主理建築師。
-
-
-  a 也是英文字母的開頭，也象徵著事物的起始。
+  aaa 是 architecture at all 的縮寫，建築到底是什麼？探究著建築的本質。aaa 也代表了 3 位主理建築師。a
+  也是英文字母的開頭，也象徵著事物的起始。
 
 
   品牌是態度的展現，究境最重要的核心思想為探究建築本質，引起對話，丟出提問 。logo在視覺上的呈現也有靈活的 3 種變化，呼應品牌敢於追求，不怕實驗的精神。
 
 
-  office aaa希望透過單一想法的系統性研究與思考，來追尋建築的本質。
-
-
-  將一個元素或概念冶煉至極致，追求純粹的狀態。
+  office aaa希望透過單一想法的系統性研究與思考，來追尋建築的本質。將一個元素或概念冶煉至極致，追求純粹的狀態。
 
 
   不是追求空間紋理美學的建構堆疊，而是著重建築思考與場域連結的關係。透過建築的體驗，引發對話的邀請，丟出提問與思辨。
@@ -40,6 +32,16 @@ description_markdown: >-
 
   我們喜歡office
   aaa在他們作品中獨特的想法與堅持立場的展現，持續在實務與論述中，鑽研建築的思辨與對話，進而養成台灣建築中獨特的思考脈絡，不斷探究建築與人文環境的關係。
+
+
+  **Rebranding for office aaa**
+
+
+  Office aaa was hosted by 3 architects which focus on exploring the nature of
+  architecture. They are not looking for build the layers and materials of the
+  interior or space but thinking about the relations between architecture and
+  environment. They love to challenge concept or ideas and keep experimenting
+  the possibilities through their works. &nbsp;
 infomation_markdown: >-
   Year : 2021<br>Client : office aaa<br>AD&D : Ho Wan Chun<br>Print : 九水印刷&nbsp;
   &nbsp;&nbsp;
@@ -47,4 +49,4 @@ infomation_markdown: >-
 
   &nbsp;
 ---
-<div><img src="/uploads/office-aaa/02.jpg" width="2000" height="1333" /><img src="/uploads/office-aaa/03.jpg" width="2000" height="1333" /><img src="/uploads/office-aaa/4.jpg" width="2000" height="1333" /><img src="/uploads/office-aaa/5.jpg" width="2000" height="1333" /><img src="/uploads/office-aaa/06.jpg" width="2000" height="1333" /><img src="/uploads/office-aaa/07.jpg" width="2000" height="1333" /><img src="/uploads/office-aaa/08.jpg" width="2000" height="1333" /><img src="/uploads/office-aaa/09.jpg" width="2000" height="1333" /><img src="/uploads/office-aaa/10.jpg" width="2000" height="1333" /><img src="/uploads/office-aaa/11.jpg" width="2000" height="3000" /><img src="/uploads/office-aaa/12.jpg" width="2000" height="1333" /><img src="/uploads/office-aaa/13.jpg" width="2000" height="1333" /><img src="/uploads/office-aaa/14.jpg" width="2000" height="1333" /><img src="/uploads/office-aaa/15.jpg" width="2000" height="1333" /></div>
+<div><img width="2000" height="1333" src="/uploads/office-aaa/02.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/03.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/4.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/5.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/06.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/07.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/08.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/09.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/10.jpg" /><img width="2000" height="3000" src="/uploads/office-aaa/11.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/12.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/13.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/14.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/15.jpg" /></div>
