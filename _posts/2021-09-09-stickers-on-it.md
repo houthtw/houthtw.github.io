@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stickers ON IT!
+title: STICKERS ON IT
 thumbnail: /uploads/stickers-on-it/1.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
