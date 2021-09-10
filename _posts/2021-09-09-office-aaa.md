@@ -1,7 +1,7 @@
 ---
 layout: post
 title: office aaa
-thumbnail: /uploads/office-aaa/1.jpg
+thumbnail: /uploads/office-aaa/03.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
 description_markdown: >-
@@ -49,4 +49,4 @@ infomation_markdown: >-
 
   &nbsp;
 ---
-<div><img width="2000" height="1333" src="/uploads/office-aaa/02.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/03.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/4.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/5.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/06.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/07.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/08.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/09.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/10.jpg" /><img width="2000" height="3000" src="/uploads/office-aaa/11.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/12.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/13.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/14.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/15.jpg" /></div>
+<div><img src="/uploads/office-aaa/1.jpg" width="2000" height="1333" /><img width="2000" height="1333" src="/uploads/office-aaa/02.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/4.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/5.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/06.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/07.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/08.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/09.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/10.jpg" /><img width="2000" height="3000" src="/uploads/office-aaa/11.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/12.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/13.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/14.jpg" /><img width="2000" height="1333" src="/uploads/office-aaa/15.jpg" /></div>
