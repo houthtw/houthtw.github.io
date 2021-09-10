@@ -5,10 +5,8 @@ thumbnail: /uploads/office-aaa/03.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
 description_markdown: >-
-  **Rebranding for office aaa 究境聯合建築師事務所**
-
-
-  2021年，究境建築師事務所正式更名為究境聯合建築師事務所，是間由3位建築師共同主理的事務所，這是個新的里程碑與開始，他們決定找HOUTH進行品牌策略分析、品牌命名再定義，並重新打造品牌識別。
+  **Rebranding for office aaa
+  究境聯合建築師事務所**<br>2021年，究境建築師事務所正式更名為究境聯合建築師事務所，是間由3位建築師共同主理的事務所，這是個新的里程碑與開始，他們決定找HOUTH進行品牌策略分析、品牌命名再定義，並重新打造品牌識別。
 
 
   中文名從究境建築事務所，更改為究境聯合建築師事務所，英文名則建議調整為更貼近品牌精神的office aaa。
@@ -34,14 +32,11 @@ description_markdown: >-
   aaa在他們作品中獨特的想法與堅持立場的展現，持續在實務與論述中，鑽研建築的思辨與對話，進而養成台灣建築中獨特的思考脈絡，不斷探究建築與人文環境的關係。
 
 
-  **Rebranding for office aaa**
-
-
-  Office aaa was hosted by 3 architects which focus on exploring the nature of
-  architecture. They are not looking for build the layers and materials of the
-  interior or space but thinking about the relations between architecture and
-  environment. They love to challenge concept or ideas and keep experimenting
-  the possibilities through their works. &nbsp;
+  **Rebranding for office aaa**<br>Office aaa was hosted by 3 architects which
+  focus on exploring the nature of architecture. They are not looking for build
+  the layers and materials of the interior or space but thinking about the
+  relations between architecture and environment. They love to challenge concept
+  or ideas and keep experimenting the possibilities through their works. &nbsp;
 infomation_markdown: >-
   Year : 2021<br>Client : office aaa<br>AD&D : Ho Wan Chun<br>Print : 九水印刷&nbsp;
   &nbsp;&nbsp;
