@@ -24,11 +24,8 @@ description_markdown: >-
 
 
   **TALE OF THE DRUNKEN MOON**<br>Key Visual Design for Tale of The Drunken
-  Moon, directed by Baboo Liao, performance by Ming Hwa Yuan "TIAN" taiwanese
+  Moon, directed by Baboo Liao, performed by Ming Hwa Yuan "TIAN" taiwanese
   opera co.
-infomation_markdown: |-
-  Year : 2021<br>Client : Baboo Liao<br>D : Ho Wan Chun&nbsp; &nbsp;&nbsp;
-
-  &nbsp;
+infomation_markdown: 'Year : 2021<br>Client : Baboo Liao<br>D : Ho Wan Chun'
 ---
 <div><img src="/uploads/DRUNKEN_MOON/2.jpg" width="3000" height="2165" /></div>
