@@ -13,11 +13,6 @@ description_markdown: >-
 
 
   烏魚素有「海上烏金」的美稱，這次設計也以烏金做為視覺呈現。由於皆是冷凍包裝出貨，在包裝上選用了耐水的紙張，同時兼顧禮盒的質地。形式上希望可以降低出貨手工包裝的繁雜度，以一個刀模共用在不同品項，藉由貼紙顏色分類呈現，藍色為四兩、六兩、八兩的碳烤烏魚子，橘色為一口吃碳烤烏魚子。
-infomation_markdown: >-
-  Year : 2021<br>Client : 漁事所<br>CD : Huang Chi Teng<br>AD&D : Ho Wan Chun&nbsp;
-  &nbsp;&nbsp;
-
-
-  &nbsp;
+infomation_markdown: 'Year : 2021<br>Client : 漁事所<br>CD : Huang Chi Teng<br>AD&D : Ho Wan Chun'
 ---
-<div><img src="/uploads/mullet_roe/01.jpg" width="2000" height="1333" /><img src="/uploads/mullet_roe/02.jpg" width="2000" height="3000" /><img src="/uploads/mullet_roe/03.jpg" width="2000" height="1333" /><img src="/uploads/mullet_roe/04.jpg" width="2000" height="1333" /><img src="/uploads/mullet_roe/05.jpg" width="2000" height="1333" /><img src="/uploads/mullet_roe/06.jpg" width="2000" height="3000" /><img src="/uploads/mullet_roe/07.jpg" width="2000" height="3000" /><img src="/uploads/mullet_roe/08.jpg" width="2000" height="1333" /><img src="/uploads/mullet_roe/09.jpg" width="2000" height="1333" /><img src="/uploads/mullet_roe/10.jpg" width="2000" height="667" /><img src="/uploads/mullet_roe/11.jpg" width="2000" height="3000" /><img src="/uploads/mullet_roe/12.jpg" width="2000" height="1333" /><img src="/uploads/mullet_roe/13.jpg" width="2000" height="1333" /><img src="/uploads/mullet_roe/14.jpg" width="2000" height="1333" /><img src="/uploads/mullet_roe/15.jpg" width="2000" height="3000" /></div>
+<div><img width="2000" height="3000" src="/uploads/mullet_roe/02.jpg" /><img width="2000" height="1333" src="/uploads/mullet_roe/03.jpg" /><img width="2000" height="1333" src="/uploads/mullet_roe/04.jpg" /><img width="2000" height="1333" src="/uploads/mullet_roe/05.jpg" /><img width="2000" height="3000" src="/uploads/mullet_roe/06.jpg" /><img width="2000" height="3000" src="/uploads/mullet_roe/07.jpg" /><img width="2000" height="1333" src="/uploads/mullet_roe/08.jpg" /><img width="2000" height="1333" src="/uploads/mullet_roe/09.jpg" /><img width="2000" height="667" src="/uploads/mullet_roe/10.jpg" /><img width="2000" height="3000" src="/uploads/mullet_roe/11.jpg" /><img width="2000" height="1333" src="/uploads/mullet_roe/12.jpg" /><img width="2000" height="1333" src="/uploads/mullet_roe/13.jpg" /><img width="2000" height="1333" src="/uploads/mullet_roe/14.jpg" /><img width="2000" height="3000" src="/uploads/mullet_roe/15.jpg" /></div>
