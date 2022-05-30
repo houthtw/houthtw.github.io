@@ -27,7 +27,7 @@ description_markdown: >-
   of出發，報紙LOGO象徵嘉義圓環的中心，封面的嘉義圓環影像結合在地生活的插畫設計，整份刊物的視覺設定希望可以呈現輕鬆自在，在地的氛圍。
 
 
-  中間試驗室（V棟）展場限量發放由平凡編集工作室精心編輯的《in the middle of ......》小報，蒐羅了鍾愛的 50
+  中間試驗室（V棟）展場限量發放由平凡編集工作室精心編輯的《in the middle of ……》小報，蒐羅了鍾愛的 50
   間嘉義小店，並陳述「中間試驗市集」的緣起及理念。
 infomation_markdown: >-
   Year : 2021<br>Client : 平凡編集工作室
@@ -40,4 +40,3 @@ infomation_markdown: >-
   **Newspaper Design**<br>AD＆Cover Design : HOUTH<br>Illustration＆Layout Design
   一步 : a step
 ---
-<div><a href="/uploads/CHAIYI/2.mp4">...</a></div>
