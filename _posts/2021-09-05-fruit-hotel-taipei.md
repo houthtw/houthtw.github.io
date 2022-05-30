@@ -9,10 +9,7 @@ description_markdown: >-
 
 
   **Logo Sticker for Fruit Hotel Taipei**<br>It's neither a fruit shop, nor a
-  hotel. But a space to showcase talented artists and their works.&nbsp;
-infomation_markdown: |-
-  Year : 2021<br>Client : Fruit Hotel Taipei<br>D : Ho Wan Chun&nbsp;&nbsp;
-
-  &nbsp;
+  hotel. But a space to showcase talented artists and their works.
+infomation_markdown: 'Year : 2021<br>Client : Fruit Hotel Taipei<br>D : Ho Wan Chun'
 ---
-<div><img src="/uploads/fruit-hotel-taipei/1.jpg" width="2000" height="1333" /><img src="/uploads/fruit-hotel-taipei/2.jpg" width="1736" height="1736" /><img src="/uploads/fruit-hotel-taipei/3.jpg" width="6240" height="4160" /><img src="/uploads/fruit-hotel-taipei/4.jpg" width="2000" height="3000" /><img src="/uploads/fruit-hotel-taipei/5.jpg" width="2000" height="1333" /><img width="2000" height="2499" src="/uploads/fruit-hotel-taipei/01.JPG" /><img width="2000" height="2499" src="/uploads/fruit-hotel-taipei/02.JPG" /><img width="2000" height="2499" src="/uploads/fruit-hotel-taipei/03.JPG" /><img width="2000" height="2492" src="/uploads/fruit-hotel-taipei/04.JPG" /><img width="2000" height="2492" src="/uploads/fruit-hotel-taipei/05.JPG" /><img width="2000" height="3000" src="/uploads/fruit-hotel-taipei/06.jpg" /></div>
+<div><img width="2000" height="1333" src="/uploads/fruit-hotel-taipei/1.jpg" /><img width="1736" height="1736" src="/uploads/fruit-hotel-taipei/2.jpg" /><img src="/uploads/fruit-hotel-taipei/3.jpg" width="6240" height="4160" /><img src="/uploads/fruit-hotel-taipei/4.jpg" width="2000" height="3000" /><img src="/uploads/fruit-hotel-taipei/5.jpg" width="2000" height="1333" /></div>
