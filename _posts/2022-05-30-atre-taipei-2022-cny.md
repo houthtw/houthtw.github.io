@@ -14,8 +14,9 @@ description_markdown: >-
 
   **KV plan for Atre Taipei 2022 CNY event**
 infomation_markdown: >-
-  Year : 2018<br>Client : Aruchuu<br>CD : Huang Chi Teng<br>AD&D : Ho Wan
-  Chun<br>Print : 格志凸版印刷&nbsp; &nbsp;&nbsp;
+  Year : 2022<br>Client : Atre Taipei<br>Project Planner : Ann<br>AD&D : Ho Wan
+  Chun<br>Illustration : Tadashi Nishiwaki<br>Motion Design : Kevin Cheng,
+  Sylvia Hsu
 
 
   &nbsp;
