@@ -32,4 +32,4 @@ infomation_markdown: >-
   Year : 2021<br>Client : King Car Group<br>CD : Yuan Lee&nbsp;<br>AD&D : Ho Wan
   Chun<br>PM : Huang Chi Teng
 ---
-<div><img src="/uploads/safari_club/2.jpg" width="3395" height="1432" /><img src="/uploads/safari_club/3.jpg" width="3368" height="2382" /><img src="/uploads/safari_club/4.jpg" width="3000" height="4743" /></div>
+<div><img src="/uploads/safari_club/2.jpg" width="3395" height="1424" /><img width="3368" height="2382" src="/uploads/safari_club/3.jpg" /><img width="3000" height="4743" src="/uploads/safari_club/4.jpg" /></div>
