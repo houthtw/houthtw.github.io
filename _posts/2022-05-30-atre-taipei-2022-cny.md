@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ATRE TAIPEI 2022 CNY
-thumbnail: /uploads/atre/1.gif
+thumbnail: /uploads/atre/5.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
 description_markdown: >-
@@ -21,4 +21,4 @@ infomation_markdown: >-
 
   &nbsp;
 ---
-<div><img src="/uploads/atre/2.jpg" width="5639" height="3669" /><img src="/uploads/atre/3.jpg" width="6720" height="4480" /><img src="/uploads/atre/4.jpg" width="6720" height="4480" /><img src="/uploads/atre/5.jpg" width="6720" height="4480" /><img src="/uploads/atre/6.jpg" width="6720" height="4480" /><img src="/uploads/atre/7.jpg" width="5652" height="3768" /><img src="/uploads/atre/8.jpg" width="5517" height="3678" /><img src="/uploads/atre/9.jpg" width="6570" height="4380" /><img src="/uploads/atre/10.jpg" width="6720" height="4480" /><img src="/uploads/atre/11.jpg" width="6720" height="4480" /><img src="/uploads/atre/12.jpg" width="6720" height="4480" /><img src="/uploads/atre/13.jpg" width="6334" height="4223" /><img src="/uploads/atre/14.jpg" width="6720" height="4480" /><img src="/uploads/atre/15.jpg" width="6720" height="4480" /></div>
+<div><img width="5639" height="3669" src="/uploads/atre/2.jpg" /><img width="6720" height="4480" src="/uploads/atre/3.jpg" /><img width="6720" height="4480" src="/uploads/atre/4.jpg" /><img width="6720" height="4480" src="/uploads/atre/5.jpg" /><img width="6720" height="4480" src="/uploads/atre/6.jpg" /><img width="5652" height="3768" src="/uploads/atre/7.jpg" /><img width="5517" height="3678" src="/uploads/atre/8.jpg" /><img width="6570" height="4380" src="/uploads/atre/9.jpg" /><img width="6720" height="4480" src="/uploads/atre/10.jpg" /><img width="6720" height="4480" src="/uploads/atre/11.jpg" /><img width="6720" height="4480" src="/uploads/atre/14.jpg" /><img width="6720" height="4480" src="/uploads/atre/15.jpg" /></div>
