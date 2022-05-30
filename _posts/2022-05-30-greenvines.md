@@ -22,8 +22,7 @@ description_markdown: >-
 infomation_markdown: >-
   Year : 2021<br>Client : 綠藤生機<br>CD : Yuan Lee<br>AD&D : Ho Wan Chun<br>PM :
   Huang Chi Teng<br>Bottle Concept Design : HOUTH<br>Bottle Design : HOUTH X
-  Studio Kenyon Yeh<br>Bottle made by W Glass Project<br>Print : 格志凸版印刷&nbsp;
-  &nbsp;&nbsp;
+  Studio Kenyon Yeh<br>Bottle made by W Glass Project<br>&nbsp;&nbsp;
 
 
   &nbsp;
