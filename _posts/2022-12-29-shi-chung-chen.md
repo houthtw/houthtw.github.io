@@ -13,7 +13,7 @@ description_markdown: >-
 
   競選名片，以回收材質增光膜，增光膜為早期液晶螢幕的組成材料之一，因為螢幕的光線是發散性的，增光膜透過折射原理讓光線變線性，亮度變好，但後來液晶螢幕被淘汰替換，增光膜也變成廢棄的材料且無法回收，望藉由此材質呈現一種透明與永續的概念。
 infomation_markdown: >-
-  視覺識別設計團隊<br>創意總監 Creative Director｜陳彥安 Yen<br>An Chen<br>藝術總監 Art
+  視覺識別設計團隊<br>創意總監 Creative Director｜陳彥安 Yen An Chen<br>藝術總監 Art
   Director｜HOUTH<br>視覺識別設計 Visual Identity Design｜HOUTH<br>標準字設計 Logotype
   Design｜張軒豪 Joe Chang<br>製作統籌 Production Coordinator｜張庭瑄 Ting-Hsuan Chang
 
