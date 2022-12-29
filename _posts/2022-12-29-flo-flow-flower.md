@@ -5,30 +5,18 @@ thumbnail: /uploads/flo_flow_flower/1.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
 description_markdown: >-
-  **2018永三汽車集團春節紅包**<br>分別為旗下汽車品牌包含：Aston Martin, Bentley, Bugatti,
-  McLaren設計專屬的春節賀年紅包袋。
+  **Flo Flow Flower Poster**<br><br>Flo Flow Flower
+  Poster是在工作以外展開的創作系列。喜歡照顧植物，更經常被植物照顧。自然而然植物就成為我的靈感來源。
 
 
-  Aston
-  Martin一直是007龐德的御用座駕，設計靈感源於007電影經典片頭，將槍管內的曲線場景加上放射線條組成虛實相接的新圖像，並於其中點綴車款設計的家族元素，進氣壩，交疊織出品牌專屬的Pattern。Pattern從紅包袋前延伸到後。配色選擇粉紅底色，搭配重點燙金與局部螢光橘，帶出品牌英倫優雅卻新潮的風格。
+  對我來說，創作這系列的過程，像是進入冥想一般，時而集中專注，時而讓意識自由的放飛，一回過神便完成的一個畫面。這將會是一個不定期發表的riso小海報計劃。
 
 
-  Bentley紅包設計融合中西，結合插畫與中文字，在中文字「福」的筆畫內帶出故事：<br>「一」筆畫內置入Bentley品牌精神：be
-  extraordinary。<br>「口」字內的公路山岳地景，是以經典車款continental為設計靈感。<br>「田」字內則描繪出英國國旗、Bentley經典老車，以及象徵2018狗年的邊境牧羊犬。<br>「礻」左邊示字部首，以鑰匙象徵掌握整年的好運氣。<br>雙金配色，外盒開縫設計，隱約帶出紅包局部細節，增添視覺想像。
+  This is an art project from HOUTH designer Ho Wan Chun, who loves, has been
+  healed and inspired by nature.&nbsp;
+infomation_markdown: |-
+  400X277mm<br>Limited Edition of 150<br>4 colors<br>2022
 
-
-  法國百年老車廠Bugatti的造車哲學，猶如藝術家創作一般，秉持全車手工打造（引擎也是），專注細節與平衡，追求極致完美，使每一台車如同一件件的藝術品。紅包設計以品牌創辦人的弟弟，同時也是20世紀重要雕塑家Rembrandt
-  Bugatti的手稿，Dancing
-  Elephant，為主視覺，來傳達品牌藝術精品的精神。採用品牌藍色系為底，黑色印刷手稿，將燙金線條勾勒出跳舞大象的活力、神韻。
-
-
-  速度、熱血的McLaren紅包會是什麼模樣？當然是經典720S在紅包袋上呼嘯而過。這次選了日本竹尾的元素紙，利用打凸來製造車體立體層次，輔以印刷呈現車體身形與光影效果，最後用燙金點綴出車體設計重點特徵與線條，以及最直覺的速度印記。
-
-
-  **2018 Chinese new year red envelope design**<br>for Yun San Motors, including
-  Aston Martin, Bentley, Bugatti and McLaren. We design each brand's red
-  envelope with their own characteristic and style.
-infomation_markdown: >-
-  Year : 2018 <br>Client : Yun San Motors <br>CD : Huang Chi Teng<br>AD&D : Ho
-  Wan Chun <br>Print : 山山印刷
+  &nbsp;
 ---
+<div><img src="/uploads/flo_flow_flower/2.jpg" width="2000" height="1333" /><img src="/uploads/flo_flow_flower/3.jpg" width="2000" height="1333" /><img src="/uploads/flo_flow_flower/4.jpg" width="2000" height="1333" /><img src="/uploads/flo_flow_flower/5.jpg" width="2000" height="1333" /><img src="/uploads/flo_flow_flower/6.jpg" width="2000" height="3000" /><img src="/uploads/flo_flow_flower/7.jpg" width="2000" height="3000" /><img src="/uploads/flo_flow_flower/8.jpg" width="2000" height="2862" /><img src="/uploads/flo_flow_flower/9.jpg" width="2000" height="1333" /></div>
