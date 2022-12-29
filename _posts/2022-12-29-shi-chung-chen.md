@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SHI-CHUNG CHEN
+title: CHEN SHI-CHUNG
 thumbnail: /uploads/Shi_Chung_Chen/1.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
@@ -24,4 +24,6 @@ infomation_markdown: >-
   Cello｜孫琬玲 Wan-Ling Sun<br>錄音師 Recording Engineer｜楊峻翔 Jun-Siang Yang<br>英文翻譯
   English Subtitle｜賴家翰 Chia-Han Lai<br>Year：2022<br><br>
 ---
-<div><img width="2619" height="2890" src="/uploads/Shi_Chung_Chen/2.jpg" /><img width="2618" height="1582" src="/uploads/Shi_Chung_Chen/3.jpg" /><img width="2619" height="1459" src="/uploads/Shi_Chung_Chen/4.jpg" /><img width="2619" height="1459" src="/uploads/Shi_Chung_Chen/5.jpg" /><img width="2619" height="1459" src="/uploads/Shi_Chung_Chen/6.jpg" /><img width="2618" height="1459" src="/uploads/Shi_Chung_Chen/7.jpg" /><img width="2619" height="1459" src="/uploads/Shi_Chung_Chen/8.jpg" /><img width="2618" height="1459" src="/uploads/Shi_Chung_Chen/9.jpg" /><img width="2618" height="1653" src="/uploads/Shi_Chung_Chen/10.jpg" /><img width="6090" height="4060" src="/uploads/Shi_Chung_Chen/11.jpg" /><img width="6529" height="4353" src="/uploads/Shi_Chung_Chen/12.jpg" /><img width="5916" height="3944" src="/uploads/Shi_Chung_Chen/13.jpg" /><img width="6720" height="4480" src="/uploads/Shi_Chung_Chen/14.jpg" /><img width="6720" height="4480" src="/uploads/Shi_Chung_Chen/15.jpg" /><img width="2618" height="1348" src="/uploads/Shi_Chung_Chen/16.jpg" /></div>
+<div><img width="2619" height="2890" src="/uploads/Shi_Chung_Chen/2.jpg" /><img width="2618" height="1582" src="/uploads/Shi_Chung_Chen/3.jpg" /><br /><br />&nbsp;</div>
+
+<div><img width="2619" height="1459" src="/uploads/Shi_Chung_Chen/4.jpg" /><img width="2619" height="1459" src="/uploads/Shi_Chung_Chen/5.jpg" /><img width="2619" height="1459" src="/uploads/Shi_Chung_Chen/6.jpg" /><img width="2618" height="1459" src="/uploads/Shi_Chung_Chen/7.jpg" /><br /><br /><img width="2619" height="1459" src="/uploads/Shi_Chung_Chen/8.jpg" /><br /><br /><img width="2618" height="1459" src="/uploads/Shi_Chung_Chen/9.jpg" /><img width="2618" height="1653" src="/uploads/Shi_Chung_Chen/10.jpg" /><img width="6090" height="4060" src="/uploads/Shi_Chung_Chen/11.jpg" /><img width="6529" height="4353" src="/uploads/Shi_Chung_Chen/12.jpg" /><img width="5916" height="3944" src="/uploads/Shi_Chung_Chen/13.jpg" /><img width="6720" height="4480" src="/uploads/Shi_Chung_Chen/14.jpg" /><img width="6720" height="4480" src="/uploads/Shi_Chung_Chen/15.jpg" /><img width="2618" height="1348" src="/uploads/Shi_Chung_Chen/16.jpg" /></div>
