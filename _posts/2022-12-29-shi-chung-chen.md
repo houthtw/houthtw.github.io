@@ -22,7 +22,7 @@ infomation_markdown: >-
   Zhang<br>美術設計 Styleframe Design｜HOUTH - 何婉君 Wan-Chun Ho<br>動態設計 Motion
   Design｜鄭凱文 Kevin Cheng<br>音樂設計 Music & Sound Design｜許家維 - 質地有聲製樂所<br>大提琴
   Cello｜孫琬玲 Wan-Ling Sun<br>錄音師 Recording Engineer｜楊峻翔 Jun-Siang Yang<br>英文翻譯
-  English Subtitle｜賴家翰 Chia-Han Lai<br>Year：2022<br><br>
+  English Subtitle｜賴家翰 Chia-Han Lai<br>Year：2022<br>&nbsp;
 ---
 <div><img width="2619" height="2890" src="/uploads/Shi_Chung_Chen/2.jpg" /><img width="2618" height="1582" src="/uploads/Shi_Chung_Chen/3.jpg" /><br /><br />&nbsp;</div>
 
