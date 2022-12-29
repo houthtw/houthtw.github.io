@@ -14,9 +14,6 @@ description_markdown: >-
 
   This is an art project from HOUTH designer Ho Wan Chun, who loves, has been
   healed and inspired by nature.&nbsp;
-infomation_markdown: |-
-  400X277mm<br>Limited Edition of 150<br>4 colors<br>2022
-
-  &nbsp;
+infomation_markdown: 400X277mm<br>Limited Edition of 150<br>4 colors<br>2022
 ---
 <div><img src="/uploads/flo_flow_flower/2.jpg" width="2000" height="1333" /><img src="/uploads/flo_flow_flower/3.jpg" width="2000" height="1333" /><img src="/uploads/flo_flow_flower/4.jpg" width="2000" height="1333" /><img src="/uploads/flo_flow_flower/5.jpg" width="2000" height="1333" /><img src="/uploads/flo_flow_flower/6.jpg" width="2000" height="3000" /><img src="/uploads/flo_flow_flower/7.jpg" width="2000" height="3000" /><img src="/uploads/flo_flow_flower/8.jpg" width="2000" height="2862" /><img src="/uploads/flo_flow_flower/9.jpg" width="2000" height="1333" /></div>
