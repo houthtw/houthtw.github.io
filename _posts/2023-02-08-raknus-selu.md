@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RAKNUS SELU
-thumbnail:
+thumbnail: /uploads/RAKNUS_SELU/1.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
 description_markdown: >-
@@ -42,7 +42,5 @@ infomation_markdown: >-
   Year：2022<br>Client：客家委員會<br>Curator：The Affairs
   編集者新聞<br>AD&D：HOUTH<br>專案企劃：Baboo Liao<br>章紋插畫：Son
   Ni、智海、陳麟、詹仕靜<br>蓋章處招牌：陳雕刻處<br>P：Huang Chi Teng
-
-
-  &nbsp;
 ---
+<div><p><img src="/uploads/RAKNUS_SELU/2.jpg" width="7350" height="4900" /><img src="/uploads/RAKNUS_SELU/3.jpg" width="7350" height="4900" /><img src="/uploads/RAKNUS_SELU/4.jpg" width="7350" height="4900" /><img src="/uploads/RAKNUS_SELU/5.jpg" width="7350" height="4900" /><img src="/uploads/RAKNUS_SELU/6.jpg" width="6720" height="4480" /><img src="/uploads/RAKNUS_SELU/7.jpg" width="6720" height="4480" /><img src="/uploads/RAKNUS_SELU/8.jpg" width="6720" height="4480" /><img src="/uploads/RAKNUS_SELU/9.jpg" width="6720" height="4480" /><img src="/uploads/RAKNUS_SELU/10.jpg" width="6720" height="4480" /><img src="/uploads/RAKNUS_SELU/11.jpg" width="6720" height="4480" /></p></div>
