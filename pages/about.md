@@ -9,8 +9,6 @@ title: ABOUT
 
 <div class="fields-column-2 mobile-full-width"><div class="column"><h1>THE HOUTH WAY</h1><p>Every project is unique, so we always start from asking questions. After understanding the context, current situation, discover the real problem, put forward the core communication and visual strategies, and then start the design. We develop the framework under the brand structure, and continue to challenge, breakthrough and innovate. We believe that design is to solve problems, and a perfect process can create better works.<br />每個案子都是獨特的，所以每個案子我們都從提問出發。在了解脈絡、現況和藍圖後，找出真正的問題，提出切入核心的溝通及視覺策略，然後才進入設計。在品牌的基礎上發展框架，再不斷提出挑戰、突破與創新。我們相信設計的目的在於解決問題，而完善的流程能創造更好的作品。</p></div><div class="column mobile-hide"><p> </p></div></div>
 
-<div class="fields-column-2 mobile-full-width"><div class="column mobile-hide"><p> </p></div><div class="column"><h1> </h1></div></div>
-
 <div><h1>OUR SERVICES</h1><div class="fields-column-4 mobile-half-width"><div class="column"><p>Art Direction<br />Branding<br />Brand Strategy<br />Exhibition</p></div><div class="column"><p>Graphic Design<br />Identity<br />Packaging<br />Photography</p></div><div class="column"><p>藝術指導<br />品牌規劃<br />品牌策略<br />展覽視覺</p></div><div class="column"><p>平面設計<br />識別系統<br />包裝設計<br />攝影</p></div></div></div>
 
 <div class="fields-column-2 mobile-full-width" style="margin-top: 2.6rem; margin-bottom: 5.2rem"><div class="column"><h1>CONTACT</h1><p>T &nbsp; &nbsp;02 2718 1068<br />E &nbsp; &nbsp;<a href="mailto:info@houth.tw">info@houth.tw</a></p></div><div class="column mobile-hide"><p> </p></div></div>
