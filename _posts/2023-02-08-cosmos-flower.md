@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COSMOS FLOWER
-thumbnail:
+thumbnail: /uploads/cosmos_flower/1.jpg
 thumbnail_w: 2000
 thumbnail_h: 1333
 description_markdown: >-
@@ -13,8 +13,6 @@ description_markdown: >-
 
 
   Easycard graphic design for Taipei Metro 20th anniversary.
-infomation_markdown: |-
-  Year：2022<br>Client：dosomething studio<br>D：HOUTH<br>&nbsp;
-
-  &nbsp;
+infomation_markdown: Year：2022<br>Client：dosomething studio<br>D：Ho Wan Chun<br>
 ---
+<div><img src="/uploads/cosmos_flower/2.jpg" width="5416" height="3611" /><img src="/uploads/cosmos_flower/3.jpg" width="6720" height="4480" /><img src="/uploads/cosmos_flower/4.jpg" width="6720" height="4480" /></div>
